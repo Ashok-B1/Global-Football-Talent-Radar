@@ -1,0 +1,257 @@
+scouting_rank,player_name,club_name,competition_name,country_name,age_at_season_end,position,minutes,goals,assists,goals_per90,assists_per90,market_value_m,breakout_probability_pct
+1,Ahmetcan Kaplan,NEC Nijmegen,eredivisie,Netherlands,23,Defender,2046.0,1.0,0.0,0.044,0.0,7.0,94.1615890934471
+2,Ruud Nijstad,FC Twente Enschede,eredivisie,Netherlands,18,Defender,1675.0,1.0,1.0,0.054,0.054,10.0,93.6875480512567
+3,Matte Smets,KRC Genk,jupiler-pro-league,Belgium,22,Defender,2700.0,0.0,1.0,0.0,0.033,10.0,93.40108932055408
+4,Gjivai Zechiël,FC Utrecht,eredivisie,Netherlands,22,Midfield,2811.0,8.0,7.0,0.256,0.224,10.0,92.50432978367478
+5,Mihajlo Cvetkovic,RSC Anderlecht,jupiler-pro-league,Belgium,19,Attack,1130.0,5.0,2.0,0.398,0.159,10.0,91.8460104900997
+6,Bright Arrey-Mbi,SC Braga,liga-portugal,Portugal,23,Defender,1829.0,0.0,0.0,0.0,0.0,9.0,91.8225204750716
+7,Matthieu Epolo,Standard Liège,jupiler-pro-league,Belgium,21,Goalkeeper,1890.0,0.0,0.0,0.0,0.0,8.0,91.40134576084482
+8,Elijah Dijkstra,AZ Alkmaar,eredivisie,Netherlands,20,Defender,1272.0,0.0,0.0,0.0,0.0,6.0,90.48271676681064
+9,Keisuke Goto,Sint-Truidense VV,jupiler-pro-league,Belgium,21,Attack,2081.0,10.0,5.0,0.432,0.216,10.0,90.42098150631232
+10,Kyriani Sabbe,Club Brugge KV,jupiler-pro-league,Belgium,21,Defender,1510.0,2.0,3.0,0.119,0.179,8.0,89.85170979211303
+11,Stije Resink,FC Groningen,eredivisie,Netherlands,23,Midfield,2090.0,5.0,5.0,0.215,0.215,7.0,89.5613529179235
+12,Oliver Braude,SC Heerenveen,eredivisie,Netherlands,22,Defender,2820.0,0.0,5.0,0.0,0.16,5.0,89.15137180027794
+13,Stav Lemkin,FC Twente Enschede,eredivisie,Netherlands,23,Defender,2040.0,0.0,1.0,0.0,0.044,6.0,88.79795288604426
+14,Sami Ouaissa,NEC Nijmegen,eredivisie,Netherlands,22,Midfield,2644.0,6.0,7.0,0.204,0.238,8.0,88.6349732730077
+15,Nathan-Dylan Saliba,RSC Anderlecht,jupiler-pro-league,Belgium,22,Midfield,1751.0,2.0,1.0,0.103,0.051,7.5,88.56581078539222
+16,Gabriel Moscardo,SC Braga,liga-portugal,Portugal,21,Midfield,941.0,0.0,0.0,0.0,0.0,7.0,88.46612885250264
+17,Dies Janse,FC Groningen,eredivisie,Netherlands,20,Defender,2724.0,2.0,2.0,0.066,0.066,6.5,88.43931246874325
+18,Diogo Sousa,Vitória Guimarães SC,liga-portugal,Portugal,20,Midfield,1162.0,1.0,1.0,0.077,0.077,8.0,88.22820333612452
+19,Zeno Van Den Bosch,Royal Antwerp FC,jupiler-pro-league,Belgium,23,Defender,2470.0,0.0,0.0,0.0,0.0,6.0,88.18724783973036
+20,Kamiel Van De Perre,Union Saint-Gilloise,jupiler-pro-league,Belgium,22,Midfield,1619.0,0.0,3.0,0.0,0.167,8.0,88.04993140405973
+21,Jorthy Mokio,Ajax Amsterdam,eredivisie,Netherlands,18,Midfield,1323.0,2.0,2.0,0.136,0.136,8.0,88.00412558284786
+22,Oumar Camara,Vitória Guimarães SC,liga-portugal,Portugal,19,Attack,1504.0,5.0,2.0,0.299,0.12,8.0,87.91961519165771
+23,Esmir Bajraktarevic,PSV Eindhoven,eredivisie,Netherlands,21,Attack,1062.0,4.0,5.0,0.339,0.424,8.0,87.81376068403091
+24,Caleb Yirenkyi,FC Nordsjaelland,superliga,Denmark,20,Midfield,1804.0,2.0,5.0,0.1,0.249,10.0,87.70337704158094
+25,Romeo Vermant,Club Brugge KV,jupiler-pro-league,Belgium,22,Attack,1070.0,7.0,2.0,0.589,0.168,9.0,87.65150890659254
+26,Tuur Rommens,KVC Westerlo,jupiler-pro-league,Belgium,23,Defender,1223.0,0.0,0.0,0.0,0.0,7.0,87.58873441199913
+27,Yassine Titraoui,Royal Charleroi Sporting Club,jupiler-pro-league,Belgium,23,Midfield,2367.0,4.0,0.0,0.152,0.0,7.0,87.46791663637231
+28,Nazinho,Cercle Brugge,jupiler-pro-league,Belgium,23,Defender,2074.0,3.0,4.0,0.13,0.174,6.0,87.07174569204403
+29,Sean Steur,Ajax Amsterdam,eredivisie,Netherlands,18,Midfield,1135.0,1.0,1.0,0.079,0.079,7.0,86.91771620712154
+30,Alonzo Engwanda,FC Utrecht,eredivisie,Netherlands,23,Midfield,2925.0,0.0,1.0,0.0,0.031,8.0,86.88631238452795
+31,Prince Amoako Junior,FC Nordsjaelland,superliga,Denmark,19,Attack,1672.0,6.0,4.0,0.323,0.215,7.0,86.71509990580793
+32,Başar Önal,NEC Nijmegen,eredivisie,Netherlands,22,Attack,2070.0,7.0,8.0,0.304,0.348,7.0,86.42841879120398
+33,Mathias de Amorim,FC Famalicão,liga-portugal,Portugal,22,Midfield,2470.0,4.0,2.0,0.146,0.073,10.0,86.41534830536527
+34,Leo Sauer,Feyenoord Rotterdam,eredivisie,Netherlands,21,Attack,1419.0,3.0,2.0,0.19,0.127,7.0,85.8746613919019
+35,Bastien Meupiyou,FC Alverca,liga-portugal,Portugal,20,Defender,2619.0,0.0,0.0,0.0,0.0,7.0,85.6530619301836
+36,Amorim,FC Alverca,liga-portugal,Portugal,21,Midfield,1634.0,2.0,0.0,0.11,0.0,8.0,85.5974803245583
+37,Renato Nhaga,Casa Pia AC,liga-portugal,Portugal,19,Midfield,1171.0,2.0,0.0,0.154,0.0,6.0,85.3137167948142
+38,Mario Dorgeles,SC Braga,liga-portugal,Portugal,22,Midfield,990.0,2.0,1.0,0.182,0.091,10.0,85.29417853349992
+39,Redouane Halhal,KV Mechelen,jupiler-pro-league,Belgium,23,Defender,2039.0,1.0,2.0,0.044,0.088,5.0,84.7803868402606
+40,Mathias Delorge,KAA Gent,jupiler-pro-league,Belgium,22,Midfield,1053.0,0.0,2.0,0.0,0.171,7.0,84.33186944829028
+41,Sondre Ørjasæter,FC Twente Enschede,eredivisie,Netherlands,23,Attack,2154.0,3.0,6.0,0.125,0.251,7.0,83.88323067158133
+42,Check Keita,Royal Charleroi Sporting Club,jupiler-pro-league,Belgium,23,Defender,2541.0,3.0,0.0,0.106,0.0,3.5,83.79844226263607
+43,Mohamed Touré,Randers FC,superliga,Denmark,22,Attack,1117.0,4.0,4.0,0.322,0.322,8.0,83.5959842830677
+44,Ousmane Diao,FC Midtjylland,superliga,Denmark,22,Defender,1112.0,1.0,1.0,0.081,0.081,8.0,83.59269661604442
+45,Andreas Ntoi,Rio Ave FC,liga-portugal,Portugal,23,Defender,2347.0,1.0,2.0,0.038,0.077,5.0,83.39912281377079
+46,Rome-Jayden Owusu-Oduro,AZ Alkmaar,eredivisie,Netherlands,22,Goalkeeper,2052.0,0.0,1.0,0.0,0.044,6.0,83.14805540072827
+47,Diogo Travassos,Moreirense FC,liga-portugal,Portugal,22,Defender,2436.0,5.0,3.0,0.185,0.111,6.0,82.99801462134039
+48,Steve Ngoura,Cercle Brugge,jupiler-pro-league,Belgium,21,Attack,1831.0,4.0,5.0,0.197,0.246,5.0,82.52444395995312
+49,Roggerio Nyakossi,Oud-Heverlee Leuven,jupiler-pro-league,Belgium,22,Defender,1530.0,3.0,0.0,0.176,0.0,5.0,82.47248183362753
+50,Maas Willemsen,SC Heerenveen,eredivisie,Netherlands,23,Defender,2559.0,1.0,0.0,0.035,0.0,4.5,81.97154023981206
+51,Abbosbek Fayzullaev,Basaksehir FK,super-lig,Türkiye,23,Attack,1109.0,3.0,5.0,0.243,0.406,7.0,81.66575114945107
+52,Emin Bayram,KVC Westerlo,jupiler-pro-league,Belgium,23,Defender,2592.0,3.0,2.0,0.104,0.069,4.0,81.60775170257581
+53,Thérence Koudou,KV Mechelen,jupiler-pro-league,Belgium,22,Defender,2229.0,4.0,1.0,0.162,0.04,4.0,81.44910254296047
+54,Nacho Ferri,KVC Westerlo,jupiler-pro-league,Belgium,22,Attack,2238.0,7.0,4.0,0.282,0.161,6.0,81.43848421290184
+55,Isak Jensen,AZ Alkmaar,eredivisie,Netherlands,23,Attack,2045.0,2.0,5.0,0.088,0.22,5.0,81.33148906593995
+56,Hyllarion Goore,KAA Gent,jupiler-pro-league,Belgium,21,Attack,1132.0,5.0,3.0,0.398,0.239,4.0,81.15259068774576
+57,Joseph Opoku,Zulte Waregem,jupiler-pro-league,Belgium,21,Attack,2033.0,5.0,5.0,0.221,0.221,4.5,81.15240531325223
+58,Noah Saviolo,Vitória Guimarães SC,liga-portugal,Portugal,22,Attack,1961.0,2.0,5.0,0.092,0.229,10.0,80.50999394736475
+59,Chissumba,FC Alverca,liga-portugal,Portugal,21,Defender,1510.0,0.0,0.0,0.0,0.0,5.0,80.06543384821934
+60,Victor Bak,FC Midtjylland,superliga,Denmark,23,Defender,1604.0,1.0,2.0,0.056,0.112,4.0,79.9732990621628
+61,André Gomes,FC Alverca,liga-portugal,Portugal,22,Goalkeeper,2250.0,0.0,0.0,0.0,0.0,3.0,79.55371967889685
+62,Anthony Dennis,Göztepe,super-lig,Türkiye,22,Midfield,2474.0,3.0,0.0,0.109,0.0,8.0,79.36983626202758
+63,Yaimar Medina,KRC Genk,jupiler-pro-league,Belgium,22,Defender,1136.0,0.0,1.0,0.0,0.079,4.0,79.31986890297016
+64,Marvin Young,Sparta Rotterdam,eredivisie,Netherlands,21,Defender,2970.0,0.0,1.0,0.0,0.03,5.0,79.21420646792448
+65,Fedde Leysen,Union Saint-Gilloise,jupiler-pro-league,Belgium,23,Defender,1594.0,1.0,1.0,0.056,0.056,3.5,78.95659693355381
+66,Thomas Jørgensen,Viborg FF,superliga,Denmark,21,Midfield,1742.0,3.0,7.0,0.155,0.362,5.0,78.9473408886524
+67,Oumar Diakité,Cercle Brugge,jupiler-pro-league,Belgium,23,Attack,1105.0,3.0,2.0,0.244,0.163,5.0,78.84091070628439
+68,Lucas Hey,RSC Anderlecht,jupiler-pro-league,Belgium,23,Defender,2018.0,0.0,0.0,0.0,0.0,2.5,78.83412967628288
+69,Deniz Gül,FC Porto,liga-portugal,Portugal,22,Attack,1171.0,5.0,1.0,0.384,0.077,5.0,78.78514608684918
+70,Bernt Klaverboer,SC Heerenveen,eredivisie,Netherlands,21,Goalkeeper,2610.0,0.0,0.0,0.0,0.0,3.0,78.77866881903343
+71,Juho Lähteenmäki,FC Nordsjaelland,superliga,Denmark,20,Defender,1381.0,1.0,2.0,0.065,0.13,4.5,78.6612916297038
+72,Rosen Bozhinov,Royal Antwerp FC,jupiler-pro-league,Belgium,21,Defender,1279.0,1.0,0.0,0.07,0.0,4.0,78.55067561200124
+73,Kayne van Oevelen,FC Volendam,eredivisie,Netherlands,23,Goalkeeper,2851.0,0.0,0.0,0.0,0.0,2.0,78.20045380961264
+74,Youri Regeer,Ajax Amsterdam,eredivisie,Netherlands,23,Midfield,1697.0,0.0,3.0,0.0,0.159,5.0,78.11503974372302
+75,Kristian Arnstad,Aarhus GF,superliga,Denmark,23,Attack,1728.0,9.0,3.0,0.469,0.156,6.0,77.77956699612767
+76,Thijmen Blokzijl,FC Groningen,eredivisie,Netherlands,21,Defender,3047.0,1.0,1.0,0.03,0.03,4.0,77.63016554043327
+77,Ilay Camara,RSC Anderlecht,jupiler-pro-league,Belgium,23,Defender,1009.0,1.0,1.0,0.089,0.089,3.5,77.60645403466488
+78,Lushendry Martes,Sparta Rotterdam,eredivisie,Netherlands,18,Defender,941.0,0.0,0.0,0.0,0.0,3.0,77.2608100803443
+79,Marvin Elimbi,Gil Vicente FC,liga-portugal,Portugal,23,Defender,2432.0,0.0,0.0,0.0,0.0,4.0,76.57372004668237
+80,Ángel Alarcón,FC Utrecht,eredivisie,Netherlands,22,Attack,971.0,3.0,3.0,0.278,0.278,6.0,76.44156320483432
+81,Maestro,Alanyaspor,super-lig,Türkiye,23,Midfield,1425.0,1.0,1.0,0.063,0.063,7.0,76.315835070022
+82,Denil Castillo,FC Midtjylland,superliga,Denmark,22,Midfield,1271.0,4.0,5.0,0.283,0.354,7.0,76.29985875320672
+83,Tochukwu Nnadi,Zulte Waregem,jupiler-pro-league,Belgium,23,Midfield,1418.0,0.0,1.0,0.0,0.063,4.5,76.24279747626419
+84,Ümit Akdağ,Alanyaspor,super-lig,Türkiye,23,Defender,2624.0,1.0,2.0,0.034,0.069,6.0,76.1054430529899
+85,Pedro Bravo,FC Midtjylland,superliga,Denmark,22,Midfield,1151.0,0.0,0.0,0.0,0.0,3.5,76.01344881019978
+86,Jorne Spileers,Club Brugge KV,jupiler-pro-league,Belgium,21,Defender,1123.0,0.0,0.0,0.0,0.0,3.0,75.93046470980391
+87,Amin Chiakha,Vejle Boldklub,superliga,Denmark,20,Attack,976.0,2.0,0.0,0.184,0.0,3.5,75.84914487749133
+88,Edan Diop,Cercle Brugge,jupiler-pro-league,Belgium,22,Midfield,2227.0,5.0,1.0,0.202,0.04,3.0,75.77077729824364
+89,Miguel Rodríguez,FC Utrecht,eredivisie,Netherlands,23,Attack,1350.0,3.0,0.0,0.2,0.0,4.5,75.76548697943235
+90,Chibuike Nwaiwu,Trabzonspor,super-lig,Türkiye,23,Defender,1310.0,3.0,1.0,0.206,0.069,10.0,75.48438701946588
+91,Jacob Ambæk,Bröndby IF,superliga,Denmark,18,Attack,950.0,3.0,0.0,0.284,0.0,4.0,75.10346294905692
+92,Mauricio Benítez,Royal Antwerp FC,jupiler-pro-league,Belgium,22,Midfield,1096.0,3.0,0.0,0.246,0.0,2.5,75.10184470375837
+93,Tristan Degreef,RSC Anderlecht,jupiler-pro-league,Belgium,21,Attack,1070.0,3.0,2.0,0.252,0.168,3.0,74.53498429100345
+94,Myron van Brederode,KV Mechelen,jupiler-pro-league,Belgium,23,Attack,1953.0,7.0,3.0,0.323,0.138,4.5,74.48122483411125
+95,Kaique Pereira,CD Nacional,liga-portugal,Portugal,23,Goalkeeper,2520.0,0.0,0.0,0.0,0.0,2.0,74.08523075990425
+96,David van der Werff,FC Groningen,eredivisie,Netherlands,22,Attack,2062.0,3.0,2.0,0.131,0.087,2.0,73.93675457234627
+97,Maksim Paskotsi,KAA Gent,jupiler-pro-league,Belgium,23,Defender,1813.0,4.0,2.0,0.199,0.099,3.5,73.51799629482389
+98,Noah Markmann,FC Nordsjaelland,superliga,Denmark,19,Defender,1556.0,0.0,0.0,0.0,0.0,2.5,73.38963088007714
+99,Mads Enggård,Vejle Boldklub,superliga,Denmark,22,Midfield,967.0,0.0,1.0,0.0,0.093,2.5,73.28409445767942
+100,Benjamin Tahirović,Bröndby IF,superliga,Denmark,23,Midfield,1040.0,1.0,1.0,0.087,0.087,4.5,73.01369450185636
+101,Filip Bundgaard,Bröndby IF,superliga,Denmark,22,Attack,1039.0,4.0,1.0,0.346,0.087,2.5,72.69768484540626
+102,Étienne Camara,Royal Charleroi Sporting Club,jupiler-pro-league,Belgium,23,Midfield,2353.0,1.0,3.0,0.038,0.115,4.0,72.6847911421004
+103,Julius Berthel Askou,Odense Boldklub,superliga,Denmark,20,Defender,1311.0,0.0,0.0,0.0,0.0,2.5,72.63116696231016
+104,Shola Shoretire,PEC Zwolle,eredivisie,Netherlands,22,Attack,1652.0,5.0,1.0,0.272,0.054,2.0,72.508920766607
+105,Laurits Pedersen,Randers FC,superliga,Denmark,20,Midfield,980.0,0.0,0.0,0.0,0.0,1.0,72.49676895194419
+106,Weslley Patati,AZ Alkmaar,eredivisie,Netherlands,23,Attack,1448.0,2.0,4.0,0.124,0.249,4.5,72.37616694021172
+107,Taichi Fukui,FC Arouca,liga-portugal,Portugal,22,Midfield,2531.0,4.0,3.0,0.142,0.107,5.0,72.19628074692152
+108,Olti Hyseni,Sönderjyske Fodbold,superliga,Denmark,19,Attack,955.0,2.0,2.0,0.188,0.188,2.5,71.9266774853829
+109,Christian Marques,CD Tondela,liga-portugal,Portugal,23,Defender,2716.0,0.0,0.0,0.0,0.0,2.0,71.91043619309023
+110,Emmanuel Kakou,Cercle Brugge,jupiler-pro-league,Belgium,21,Defender,1428.0,2.0,1.0,0.126,0.063,2.0,71.81341356132613
+111,Marcus Linday,SC Heerenveen,eredivisie,Netherlands,23,Midfield,2308.0,1.0,3.0,0.039,0.117,5.0,71.77848620530979
+112,Pape Moussa Fall,RAAL La Louvière,jupiler-pro-league,Belgium,22,Attack,1311.0,8.0,1.0,0.549,0.069,3.5,71.7739798496175
+113,Alan Minda,Cercle Brugge,jupiler-pro-league,Belgium,23,Attack,969.0,3.0,3.0,0.279,0.279,3.0,71.29683638385188
+114,Gabri Martínez,SC Braga,liga-portugal,Portugal,23,Attack,1321.0,1.0,5.0,0.068,0.341,7.0,70.77426696087662
+115,Anselmo García MacNulty,PEC Zwolle,eredivisie,Netherlands,23,Defender,2845.0,2.0,0.0,0.063,0.0,1.5,70.67168078872874
+116,Arthur Piedfort,KVC Westerlo,jupiler-pro-league,Belgium,21,Midfield,2246.0,2.0,3.0,0.08,0.12,4.0,70.50935819052356
+117,Kristian Hlynsson,FC Twente Enschede,eredivisie,Netherlands,22,Midfield,2572.0,10.0,4.0,0.35,0.14,6.0,69.80695157435656
+118,Adnane Abid,Standard Liège,jupiler-pro-league,Belgium,23,Attack,1313.0,2.0,1.0,0.137,0.069,2.5,69.75335426237461
+119,Uchenna Ogundu,Alanyaspor,super-lig,Türkiye,20,Attack,987.0,2.0,2.0,0.182,0.182,4.0,69.6620178329858
+120,Srdjan Kuzmic,Viborg FF,superliga,Denmark,22,Defender,1210.0,3.0,1.0,0.223,0.074,2.0,69.15436446635913
+121,Mathis Servais,KV Mechelen,jupiler-pro-league,Belgium,22,Midfield,1928.0,2.0,3.0,0.093,0.14,4.0,69.14633340047439
+122,Noah Mbamba,FCV Dender EH,jupiler-pro-league,Belgium,21,Midfield,2432.0,1.0,2.0,0.037,0.074,2.0,69.09521161932031
+123,Yaya Bojang,Odense Boldklub,superliga,Denmark,22,Defender,927.0,0.0,1.0,0.0,0.097,0.8,67.8269106886656
+124,Isa Sakamoto,KVC Westerlo,jupiler-pro-league,Belgium,23,Midfield,2395.0,4.0,4.0,0.15,0.15,4.0,67.65224972532948
+125,Ro-Zangelo Daal,AZ Alkmaar,eredivisie,Netherlands,22,Attack,1357.0,1.0,0.0,0.066,0.0,3.0,67.23095245019947
+126,Tony Strata,Vitória Guimarães SC,liga-portugal,Portugal,22,Defender,1404.0,1.0,1.0,0.064,0.064,2.0,67.16905063410826
+127,Milan Smit,Go Ahead Eagles,eredivisie,Netherlands,23,Attack,1362.0,6.0,2.0,0.396,0.132,2.0,66.88923435118758
+128,Adrian Blake,FC Utrecht,eredivisie,Netherlands,21,Attack,971.0,2.0,2.0,0.185,0.185,2.0,66.81964801619682
+129,Tobias Lauritsen,Vejle Boldklub,superliga,Denmark,22,Midfield,921.0,0.0,1.0,0.0,0.098,0.8,66.50951212196773
+130,Josimar Alcócer,KVC Westerlo,jupiler-pro-league,Belgium,22,Attack,1963.0,3.0,3.0,0.138,0.138,3.0,66.44708373479223
+131,Martin Delavallée,Royal Charleroi Sporting Club,jupiler-pro-league,Belgium,22,Goalkeeper,1890.0,0.0,0.0,0.0,0.0,1.5,66.26889916386048
+132,Casper Widell,Excelsior Rotterdam,eredivisie,Netherlands,23,Defender,3054.0,1.0,1.0,0.029,0.029,1.5,66.18656047089691
+133,Jorg Schreuders,FC Groningen,eredivisie,Netherlands,22,Attack,2830.0,1.0,3.0,0.032,0.095,1.7,66.16408615410225
+134,Kacper Kozlowski,Gaziantep FK,super-lig,Türkiye,23,Midfield,2653.0,6.0,3.0,0.204,0.102,6.0,66.16142559216908
+135,Tom de Graaff,PEC Zwolle,eredivisie,Netherlands,22,Goalkeeper,2790.0,0.0,0.0,0.0,0.0,1.0,65.9919757455915
+136,Tygo Land,FC Groningen,eredivisie,Netherlands,20,Midfield,1525.0,3.0,1.0,0.177,0.059,2.5,65.22918369745307
+137,Thom van Bergen,FC Groningen,eredivisie,Netherlands,22,Attack,2977.0,9.0,5.0,0.272,0.151,3.0,64.63067849152398
+138,Emran Soglo,Zulte Waregem,jupiler-pro-league,Belgium,21,Defender,1038.0,0.0,3.0,0.0,0.26,0.7,64.28196032513833
+139,Mads Freundlich,Silkeborg IF,superliga,Denmark,23,Midfield,1164.0,0.0,0.0,0.0,0.0,1.5,63.974155877885785
+140,Nick Verschuren,FC Volendam,eredivisie,Netherlands,21,Defender,2676.0,0.0,1.0,0.0,0.034,1.0,63.68568712364898
+141,Cedric Hatenboer,SC Telstar,eredivisie,Netherlands,21,Midfield,1146.0,0.0,3.0,0.0,0.236,2.0,63.20064721112095
+142,Kazeem Olaigbe,Konyaspor,super-lig,Türkiye,23,Attack,951.0,0.0,0.0,0.0,0.0,4.0,62.20690195501204
+143,Jerry Afriyie,RAAL La Louvière,jupiler-pro-league,Belgium,20,Attack,2049.0,5.0,1.0,0.22,0.044,1.2,62.09134665827851
+144,Mateja Stjepanović,Moreirense FC,liga-portugal,Portugal,22,Midfield,2412.0,1.0,0.0,0.037,0.0,3.0,61.808173687177934
+145,Gustavo Varela,Gil Vicente FC,liga-portugal,Portugal,21,Attack,1522.0,6.0,3.0,0.355,0.177,3.0,61.07859054334004
+146,Philip Brittijn,Fortuna Sittardia Combinatie,eredivisie,Netherlands,22,Midfield,2408.0,4.0,1.0,0.15,0.037,1.6,61.01231651087915
+147,Gilberto Batista,Moreirense FC,liga-portugal,Portugal,23,Defender,1933.0,0.0,0.0,0.0,0.0,1.5,60.98290069635948
+148,Tika de Jonge,FC Groningen,eredivisie,Netherlands,23,Midfield,2051.0,3.0,1.0,0.132,0.044,1.8,60.6576492269373
+149,Tristan Gooijer,PEC Zwolle,eredivisie,Netherlands,22,Defender,1371.0,3.0,0.0,0.197,0.0,1.5,60.56525066192068
+150,Nelson Abbey,Rio Ave FC,liga-portugal,Portugal,23,Defender,2091.0,0.0,1.0,0.0,0.043,1.5,60.21934426913064
+151,Jakob Breum,Go Ahead Eagles,eredivisie,Netherlands,23,Midfield,2041.0,6.0,6.0,0.265,0.265,5.0,60.17922592460832
+152,Max Ejdum,Odense Boldklub,superliga,Denmark,22,Midfield,1250.0,1.0,3.0,0.072,0.216,2.0,60.16473670084597
+153,Jakob Jessen,FC Fredericia,superliga,Denmark,22,Defender,1678.0,0.0,3.0,0.0,0.161,0.8,60.11792269409752
+154,Noé Lebreton,NEC Nijmegen,eredivisie,Netherlands,22,Midfield,1432.0,5.0,4.0,0.314,0.251,4.0,59.80087659261768
+155,Pedro Bondo,FC Famalicão,liga-portugal,Portugal,22,Defender,1178.0,0.0,0.0,0.0,0.0,2.0,59.76248485222165
+156,Luc Marijnissen,FCV Dender EH,jupiler-pro-league,Belgium,23,Defender,2520.0,1.0,0.0,0.036,0.0,1.5,59.59847638373736
+157,Taha Altıkardeş,Göztepe,super-lig,Türkiye,23,Defender,1378.0,1.0,0.0,0.065,0.0,4.0,59.099739811102616
+158,Ayoni Santos,Sparta Rotterdam,eredivisie,Netherlands,21,Midfield,1571.0,1.0,1.0,0.057,0.057,2.0,59.0734606525391
+159,Djibril Lamego,RAAL La Louvière,jupiler-pro-league,Belgium,23,Defender,2148.0,0.0,0.0,0.0,0.0,1.5,59.07326832575516
+160,Hjalte Bidstrup,Viborg FF,superliga,Denmark,20,Defender,1058.0,1.0,2.0,0.085,0.17,1.2,58.76200575305855
+161,Robin van Cruijsen,FC Volendam,eredivisie,Netherlands,20,Midfield,1355.0,4.0,3.0,0.266,0.199,1.2,58.75945877865918
+162,Cherrion Valerius,NAC Breda,eredivisie,Netherlands,21,Defender,1834.0,0.0,2.0,0.0,0.098,0.65,58.71882827112909
+163,Gonçalo Nogueira,Vitória Guimarães SC,liga-portugal,Portugal,23,Midfield,1345.0,0.0,4.0,0.0,0.268,4.0,58.495328862685184
+164,Precious Ugwu,FC Volendam,eredivisie,Netherlands,20,Defender,2171.0,0.0,0.0,0.0,0.0,0.5,58.30622182610789
+165,Mike Themsen,Randers FC,superliga,Denmark,20,Midfield,1258.0,0.0,2.0,0.0,0.143,0.8,58.24726229642716
+166,Juanse Rodríguez,CD Tondela,liga-portugal,Portugal,20,Midfield,1979.0,0.0,0.0,0.0,0.0,1.0,56.97991758736246
+167,Metehan Altunbaş,Eyüpspor,super-lig,Türkiye,23,Attack,1006.0,7.0,1.0,0.626,0.089,2.0,56.87273494399013
+168,Barış Kalaycı,Fatih Karagümrük,super-lig,Türkiye,21,Attack,1309.0,1.0,3.0,0.069,0.206,1.8,56.59502515047007
+169,Olivier Aertssen,PEC Zwolle,eredivisie,Netherlands,22,Defender,1857.0,0.0,2.0,0.0,0.097,0.65,56.54205609622044
+170,Pedro Lima,Avs Futebol,liga-portugal,Portugal,23,Midfield,1897.0,4.0,2.0,0.19,0.095,3.0,56.31110361630963
+171,Deniz Ertaş,Konyaspor,super-lig,Türkiye,21,Goalkeeper,1075.0,0.0,1.0,0.0,0.084,3.5,55.991320265016086
+172,Gustavo Mancha,Rio Ave FC,liga-portugal,Portugal,22,Defender,1260.0,0.0,0.0,0.0,0.0,1.5,55.14591407820378
+173,Edouard Michut,Fortuna Sittardia Combinatie,eredivisie,Netherlands,23,Midfield,1595.0,0.0,0.0,0.0,0.0,1.2,54.40840853196015
+174,Lawrence Agyekum,Cercle Brugge,jupiler-pro-league,Belgium,23,Midfield,1806.0,0.0,3.0,0.0,0.15,1.5,54.394556262531815
+175,Adem Arous,Kasimpasa,super-lig,Türkiye,22,Defender,1672.0,1.0,1.0,0.054,0.054,4.0,53.5747954934314
+176,Kazeem Olaigbe,Trabzonspor,super-lig,Türkiye,23,Attack,1093.0,0.0,1.0,0.0,0.082,4.0,53.53250256644295
+177,Sami Jalal,Viborg FF,superliga,Denmark,22,Attack,1390.0,2.0,0.0,0.129,0.0,1.5,52.9826194071954
+178,Andreas Verstraeten,Royal Antwerp FC,jupiler-pro-league,Belgium,20,Defender,921.0,0.0,1.0,0.0,0.098,1.0,52.95970559173821
+179,Daan Dierckx,Standard Liège,jupiler-pro-league,Belgium,23,Defender,1176.0,0.0,0.0,0.0,0.0,1.5,52.24284727080109
+180,Thomas Claes,Zulte Waregem,jupiler-pro-league,Belgium,22,Midfield,2574.0,2.0,1.0,0.07,0.035,1.5,52.05453551170813
+181,Joseph Nonge,Kocaelispor,super-lig,Türkiye,21,Midfield,1193.0,0.0,0.0,0.0,0.0,2.0,51.99444239808451
+182,Gyan de Regt,Excelsior Rotterdam,eredivisie,Netherlands,23,Attack,2662.0,3.0,8.0,0.101,0.27,0.9,51.65834092103787
+183,Deveron Fonville,NEC Nijmegen,eredivisie,Netherlands,23,Defender,1458.0,0.0,2.0,0.0,0.123,1.5,51.46481050346341
+184,Otávio,CF Estrela Amadora,liga-portugal,Portugal,21,Defender,1356.0,0.0,1.0,0.0,0.066,1.5,51.218786249731465
+185,Marko Milovanović,FC Alverca,liga-portugal,Portugal,23,Attack,1535.0,9.0,2.0,0.528,0.117,2.5,51.09471537134343
+186,Espen van Ee,FC Arouca,liga-portugal,Portugal,23,Midfield,1880.0,2.0,1.0,0.096,0.048,1.2,50.918235658616354
+187,Amando Lapage,KVC Westerlo,jupiler-pro-league,Belgium,22,Defender,945.0,0.0,0.0,0.0,0.0,0.8,50.80432830110559
+188,Gibson Yah,FC Volendam,eredivisie,Netherlands,23,Midfield,1665.0,0.0,3.0,0.0,0.162,1.3,50.2707237600488
+189,Alan Núñez,CD Nacional,liga-portugal,Portugal,22,Defender,1672.0,1.0,2.0,0.054,0.108,1.0,50.16050330721497
+190,Julius Dirksen,Go Ahead Eagles,eredivisie,Netherlands,23,Defender,1163.0,2.0,0.0,0.155,0.0,0.8,49.36683401702943
+191,Irakli Yegoian,Excelsior Rotterdam,eredivisie,Netherlands,22,Midfield,2677.0,5.0,2.0,0.168,0.067,1.8,49.03763158187457
+192,Sem van Duijn,SC Telstar,eredivisie,Netherlands,22,Attack,1013.0,5.0,2.0,0.444,0.178,0.8,48.92128720904603
+193,Rodri Alonso,Moreirense FC,liga-portugal,Portugal,23,Midfield,1495.0,3.0,3.0,0.181,0.181,2.0,48.57168514548968
+194,Ruan,Alanyaspor,super-lig,Türkiye,21,Midfield,2255.0,1.0,3.0,0.04,0.12,3.0,48.08909434311757
+195,Óscar Perea,Avs Futebol,liga-portugal,Portugal,21,Attack,1258.0,2.0,0.0,0.143,0.0,1.5,47.88847375498362
+196,Christian Gammelgaard,Vejle Boldklub,superliga,Denmark,23,Attack,1632.0,6.0,4.0,0.331,0.221,0.9,47.29972462411446
+197,Villads Westh,Silkeborg IF,superliga,Denmark,22,Midfield,959.0,0.0,0.0,0.0,0.0,0.7,47.29084182038473
+198,Luc De Fougerolles,FCV Dender EH,jupiler-pro-league,Belgium,21,Defender,1460.0,0.0,1.0,0.0,0.062,1.0,46.99214866886887
+199,Alexander Lyng,Sönderjyske Fodbold,superliga,Denmark,22,Attack,1305.0,3.0,1.0,0.207,0.069,1.2,46.714592236259634
+200,Justin Hubner,Fortuna Sittardia Combinatie,eredivisie,Netherlands,23,Defender,1490.0,2.0,1.0,0.121,0.06,1.0,46.474635821777404
+201,Charly Nouck,Viborg FF,superliga,Denmark,22,Attack,1020.0,5.0,4.0,0.441,0.353,1.2,45.37722923910885
+202,Henrique Silva,CD Santa Clara,liga-portugal,Portugal,21,Defender,1031.0,0.0,0.0,0.0,0.0,0.5,45.32746039682073
+203,Adam Nygaard,FC Fredericia,superliga,Denmark,21,Defender,1006.0,0.0,0.0,0.0,0.0,0.5,44.89771785074882
+204,Brayann Pereira,NEC Nijmegen,eredivisie,Netherlands,23,Defender,1165.0,0.0,2.0,0.0,0.155,1.0,44.88731298082664
+205,Aske Adelgaard,Go Ahead Eagles,eredivisie,Netherlands,23,Defender,1561.0,1.0,1.0,0.058,0.058,1.0,44.70959355577785
+206,Lequincio Zeefuik,Heracles Almelo,eredivisie,Netherlands,22,Attack,1061.0,2.0,1.0,0.17,0.085,0.85,44.55562198507749
+207,Lennard Hartjes,Excelsior Rotterdam,eredivisie,Netherlands,23,Midfield,1565.0,1.0,0.0,0.058,0.0,0.8,44.4801292380591
+208,Isaac James,FC Alverca,liga-portugal,Portugal,22,Defender,1305.0,0.0,2.0,0.0,0.138,0.6,43.16229846202189
+209,Rio Hillen,NAC Breda,eredivisie,Netherlands,23,Defender,2005.0,0.0,1.0,0.0,0.045,0.6,42.02948213395111
+210,Mateusz Legowski,Eyüpspor,super-lig,Türkiye,23,Midfield,1565.0,2.0,1.0,0.115,0.058,2.0,41.87438397906941
+211,Jochem Ritmeester van de Kamp,SC Telstar,eredivisie,Netherlands,23,Midfield,2045.0,7.0,1.0,0.308,0.044,1.5,41.82164605563319
+212,Landerson,Moreirense FC,liga-portugal,Portugal,20,Attack,1289.0,0.0,2.0,0.0,0.14,1.0,41.727938690231895
+213,Giannis Apostolakis,Omilos Filathlon Irakliou FC,super-league-1,Greece,22,Midfield,1488.0,1.0,0.0,0.06,0.0,1.2,41.136996912210535
+214,Lewis Schouten,Excelsior Rotterdam,eredivisie,Netherlands,22,Defender,1355.0,1.0,0.0,0.066,0.0,0.7,40.86247079078752
+215,Marwan Al-Sahafi,Royal Antwerp FC,jupiler-pro-league,Belgium,22,Attack,1196.0,1.0,0.0,0.075,0.0,1.0,40.46023368577587
+216,Djé,CD Santa Clara,liga-portugal,Portugal,23,Midfield,954.0,0.0,1.0,0.0,0.094,0.8,39.75810830431757
+217,Yannick Cappelle,Zulte Waregem,jupiler-pro-league,Belgium,23,Defender,1757.0,1.0,1.0,0.051,0.051,0.65,39.48067853278553
+218,Antonio Espigares,Gil Vicente FC,liga-portugal,Portugal,22,Defender,972.0,1.0,1.0,0.093,0.093,0.5,39.15690026386763
+219,Brandon Aguilera,Rio Ave FC,liga-portugal,Portugal,23,Midfield,1378.0,1.0,0.0,0.065,0.0,1.5,39.07569504799356
+220,Nordin Bukala,FC Volendam,eredivisie,Netherlands,21,Midfield,1751.0,2.0,1.0,0.103,0.051,0.6,38.511055166057055
+221,Nils Rossen,SC Telstar,eredivisie,Netherlands,22,Midfield,2333.0,3.0,1.0,0.116,0.039,0.7,38.50297237554976
+222,Göktan Gürpüz,Gençlerbirliği Spor Kulübü,super-lig,Türkiye,23,Midfield,1940.0,0.0,6.0,0.0,0.278,2.0,38.41848432627799
+223,Diogo Spencer,Avs Futebol,liga-portugal,Portugal,22,Defender,1006.0,1.0,2.0,0.089,0.179,0.9,38.30277338772922
+224,Konstantinos Kostoulas,Omilos Filathlon Irakliou FC,super-league-1,Greece,21,Defender,984.0,0.0,1.0,0.0,0.091,0.8,37.30829204170678
+225,Baran Gezek,Eyüpspor,super-lig,Türkiye,21,Midfield,1383.0,0.0,0.0,0.0,0.0,1.5,36.468710925955705
+226,Gustavo Mendonça,Avs Futebol,liga-portugal,Portugal,23,Midfield,1401.0,0.0,0.0,0.0,0.0,0.5,36.10109941027629
+227,Mimeirhel Benita,Heracles Almelo,eredivisie,Netherlands,23,Defender,1448.0,0.0,1.0,0.0,0.062,0.5,35.4003385753538
+228,Juan Castillo,Vitória Guimarães SC,liga-portugal,Portugal,23,Goalkeeper,1350.0,0.0,0.0,0.0,0.0,0.5,35.30304951406629
+229,David Martínez,Volou Neos Podosferikos Syllogos,super-league-1,Greece,22,Midfield,1150.0,2.0,0.0,0.157,0.0,1.2,35.234444021273895
+230,Joelson Fernandes,Gil Vicente FC,liga-portugal,Portugal,23,Attack,1013.0,1.0,3.0,0.089,0.267,1.0,35.2143591902311
+231,Thiago Balieiro,Vitória Guimarães SC,liga-portugal,Portugal,23,Defender,1170.0,1.0,0.0,0.077,0.0,1.0,35.10568871809184
+232,Jankat Yılmaz,Eyüpspor,super-lig,Türkiye,22,Goalkeeper,1260.0,0.0,0.0,0.0,0.0,1.5,33.6231210720952
+233,Pedro Carvalho,GD Estoril Praia,liga-portugal,Portugal,23,Defender,1249.0,0.0,1.0,0.0,0.072,0.8,32.947803809871075
+234,Jerolldino Bergraaf,Excelsior Rotterdam,eredivisie,Netherlands,20,Attack,1046.0,0.0,1.0,0.0,0.086,0.3,32.931356582878315
+235,Oluwaseun Adewumi,Cercle Brugge,jupiler-pro-league,Belgium,21,Midfield,1433.0,4.0,0.0,0.251,0.0,0.8,31.556475946487183
+236,Juho Talvitie,NAC Breda,eredivisie,Netherlands,21,Attack,1395.0,3.0,2.0,0.194,0.129,0.7,31.51455754299669
+237,Lukas Willen,Zulte Waregem,jupiler-pro-league,Belgium,23,Defender,1055.0,0.0,1.0,0.0,0.085,0.6,31.190512408881386
+238,Hyun-ju Lee,FC Arouca,liga-portugal,Portugal,23,Midfield,2024.0,7.0,3.0,0.311,0.133,2.5,30.586598935284297
+239,Jakob Napoleon Romsaas,Royal Charleroi Sporting Club,jupiler-pro-league,Belgium,22,Midfield,1499.0,1.0,4.0,0.06,0.24,1.2,30.584172030223765
+240,Bartuğ Elmaz,Fatih Karagümrük,super-lig,Türkiye,23,Midfield,1042.0,1.0,0.0,0.086,0.0,1.5,29.902479032075615
+241,Anıl Yiğit Çınar,Fatih Karagümrük,super-lig,Türkiye,23,Defender,1100.0,2.0,0.0,0.164,0.0,0.5,29.615281345370747
+242,Tunde Akinsola,Avs Futebol,liga-portugal,Portugal,23,Attack,2443.0,1.0,4.0,0.037,0.147,0.8,27.180170838187472
+243,Mohamed Nassoh,NAC Breda,eredivisie,Netherlands,23,Midfield,1826.0,5.0,1.0,0.246,0.049,0.7,26.59013653611697
+244,Jeppe Kudsk,FC Fredericia,superliga,Denmark,23,Defender,1093.0,1.0,0.0,0.082,0.0,0.4,25.91598441463421
+245,Hugo Félix,CD Tondela,liga-portugal,Portugal,22,Midfield,1335.0,0.0,2.0,0.0,0.135,0.8,24.999425316426446
+246,Aurelio Oehlers,FC Volendam,eredivisie,Netherlands,22,Attack,1538.0,4.0,1.0,0.234,0.059,0.5,23.724533215206463
+247,Mattheos Mountes,APS Atromitos Athinon,super-league-1,Greece,23,Defender,1439.0,0.0,0.0,0.0,0.0,0.6,21.63619796194224
+248,Luís Semedo,Moreirense FC,liga-portugal,Portugal,23,Attack,989.0,3.0,0.0,0.273,0.0,0.6,17.890384515866106
+249,Jin-ho Jo,Konyaspor,super-lig,Türkiye,23,Midfield,1101.0,1.0,1.0,0.082,0.082,1.0,17.86014381628538
+250,Timo Jansink,Heracles Almelo,eredivisie,Netherlands,23,Goalkeeper,1350.0,0.0,0.0,0.0,0.0,0.15,16.607992424069145
+251,Devon Koswal,SC Telstar,eredivisie,Netherlands,23,Defender,1638.0,0.0,0.0,0.0,0.0,0.45,15.720946633635576
+252,Joel Ideho,FC Volendam,eredivisie,Netherlands,23,Attack,1132.0,1.0,1.0,0.08,0.08,0.3,15.47498192429925
+253,Tristan van Gilst,Heracles Almelo,eredivisie,Netherlands,23,Attack,1258.0,2.0,0.0,0.143,0.0,0.35,14.889789809339318
+254,Kaly,Casa Pia AC,liga-portugal,Portugal,23,Defender,992.0,0.0,0.0,0.0,0.0,0.4,10.679682035269934
+255,Panagiotis Tsantilas,APS Atromitos Athinon,super-league-1,Greece,22,Attack,1020.0,3.0,0.0,0.265,0.0,0.5,7.62998326280639
+256,Bedirhan Özyurt,Eyüpspor,super-lig,Türkiye,23,Defender,908.0,0.0,1.0,0.0,0.099,0.2,7.442650467798996
